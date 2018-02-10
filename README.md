@@ -1,0 +1,2 @@
+# HOdlcoin.github.io
+Redirect
